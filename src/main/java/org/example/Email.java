@@ -1,3 +1,5 @@
+package org.example;
+
 public class Email {
     private int id;
     private String nome;
